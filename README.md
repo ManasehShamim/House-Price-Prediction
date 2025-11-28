@@ -50,3 +50,36 @@ Pipeline used:
 The model was trained using:
 ```python
 pipeline.fit(X_train, y_train)
+
+
+# Model Evaluation
+
+Metrics used:
+
+MAE (Mean Absolute Error)
+
+RMSE (Root Mean Squared Error)
+
+These metrics help understand how close the predicted values are to the actual prices.
+
+# Visualization
+
+A scatter plot was used to compare:
+
+Actual House Prices
+
+Predicted House Prices
+
+This helps evaluate how well the model performs visually.
+
+# Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Matplotlib
